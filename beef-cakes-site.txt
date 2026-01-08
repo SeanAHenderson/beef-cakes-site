@@ -269,4 +269,5 @@ footer {
 │   ├── product2.jpg
 │   └── product3.jpg
 │
+
 └── README.md
