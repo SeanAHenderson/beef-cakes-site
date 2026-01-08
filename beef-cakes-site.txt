@@ -1,0 +1,272 @@
+beef-cakes-site/
+│
+├── index.html        (Home)
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Beef Cakes by Stud Muffins</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Bold Flavor. Premium Catering.</h1>
+  <p>Handcrafted food experiences for events that demand attention.</p>
+</section>
+
+<section class="content">
+  <h2>What We Do</h2>
+  <p>
+    Beef Cakes by Stud Muffins delivers high-quality, unforgettable catering
+    for private events, corporate gatherings, and celebrations.
+  </p>
+</section>
+
+<footer>
+  © 2026 Beef Cakes by Stud Muffins
+</footer>
+
+</body>
+</html>
+
+├── about.html        (About)
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About | Beef Cakes</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h1>About Us</h1>
+  <p>
+    We are a catering company built around premium ingredients, bold flavors,
+    and unforgettable presentation.
+  </p>
+
+  <p>
+    From intimate gatherings to large-scale events, we bring confidence,
+    creativity, and consistency to every plate.
+  </p>
+</section>
+
+<footer>
+  © 2026 Beef Cakes by Stud Muffins
+</footer>
+
+</body>
+</html>
+
+├── products.html     (Products)
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Products | Beef Cakes</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h1>Our Menu</h1>
+
+  <div class="products">
+    <div class="product">
+      <img src="images/product1.jpg" alt="Signature Beef Cake">
+      <h3>Signature Beef Cake</h3>
+      <p>Juicy, seasoned to perfection, and grilled for maximum flavor.</p>
+    </div>
+
+    <div class="product">
+      <img src="images/product2.jpg" alt="Smoked Special">
+      <h3>Smoked Special</h3>
+      <p>Slow-smoked cuts with bold spices and deep flavor.</p>
+    </div>
+
+    <div class="product">
+      <img src="images/product3.jpg" alt="Event Platter">
+      <h3>Event Platter</h3>
+      <p>Perfect for groups and catered events.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  © 2026 Beef Cakes by Stud Muffins
+</footer>
+
+</body>
+</html>
+
+├── contact.html      (Contact)
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact | Beef Cakes</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">Beef Cakes by Stud Muffins</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h1>Contact Us</h1>
+  <p>Email us to inquire about catering, pricing, and availability.</p>
+
+  <p>
+    📧 <strong>Email:</strong> your@email.com  
+  </p>
+</section>
+
+<footer>
+  © 2026 Beef Cakes by Stud Muffins
+</footer>
+
+</body>
+</html>
+
+│
+├── css/
+│   └── styles.css
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #222;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #111;
+}
+
+.navbar a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.logo {
+  color: white;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 100px 20px;
+  text-align: center;
+  background: #333;
+  color: white;
+}
+
+.content {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  color: white;
+}
+
+│
+├── images/
+│   ├── hero.jpg
+│   ├── product1.jpg
+│   ├── product2.jpg
+│   └── product3.jpg
+│
+└── README.md
